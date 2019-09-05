@@ -9,5 +9,8 @@ Kurulum:
 angular/cli kurulduktan sonra commond line da "ng" komutlari calismaya baslar.
 
 3)Yeni bir proje olusturma:   ng new proje-adi
+
 4)Projenin ana dizinine gitme: cd proje-adi
+
 5)Projeyi calistirma: ng serve (emberjs de: " ember s " komutu)
+
